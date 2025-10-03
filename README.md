@@ -1,2 +1,2 @@
-# tejeshreddy.github.io
+# rushiparikh.github.io
 - Personal gh-page [rushiparikh.github.io](https://rushiparikh.github.io/)
